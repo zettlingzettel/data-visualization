@@ -6,6 +6,16 @@ __________
 Sept 27
 <br />
 
+# AI Impact on Job Market: (2024–2030)
+Graph 3
+<br />
+[Dataset](https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?resource=download)
+<br />
+<img width="1160" height="627" alt="image" src="https://github.com/user-attachments/assets/7fc2c59c-9ce1-488d-871c-57fc26223fe6" />
+
+<br />
+<br />
+
 # Do younger Britons see 'kidult' hobbies as childish?
 Graph 2
 <br />
