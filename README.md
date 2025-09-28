@@ -6,12 +6,12 @@ __________
 Sept 27
 <br />
 
-# Do Britons see 'kidult' hobbies as childish?
+# Do younger Britons see 'kidult' hobbies as childish?
 Graph 2
 <br />
 [Article](https://data.world/makeovermonday/do-younger-britons-see-kidult-hobbies-as-less-childish)
 <br />
-<img width="783" height="631" alt="image" src="https://github.com/user-attachments/assets/0e2877f9-efff-4db2-a53e-bc555b31cdb2" />
+<img width="783" height="632" alt="image" src="https://github.com/user-attachments/assets/c97bfde0-ba61-4dd8-a4e7-2d1f4e2d292b" />
 
 <br />
 <br />
