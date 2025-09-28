@@ -8,6 +8,15 @@ __________
 
 Sept 28
 <br />
+# The best migration destinations in 2025
+Graph 6
+<br />
+[Article](https://www.visualcapitalist.com/ranked-2025s-best-countries-to-live-and-work/#google_vignette)
+<br />
+Data Source: Makeover Monday
+<br />
+<img width="783" height="654" alt="image" src="https://github.com/user-attachments/assets/b878831a-7906-4a0f-b637-d7d1ef5bed94" />
+
 
 # Most Unreliable Cars in USA
 Graph 5
