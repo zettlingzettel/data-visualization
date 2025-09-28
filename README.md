@@ -6,6 +6,20 @@
 __________
 __________
 
+Sept 28
+<br />
+
+# Global meat production by livestock type & by country
+Graph 4
+<br />
+[Data Source](https://ourworldindata.org/meat-production)
+<br />
+
+<img width="783" height="638" alt="image" src="https://github.com/user-attachments/assets/115565ec-4240-4af8-b7be-88cc14ee18f9" />
+
+__________
+__________
+
 Sept 27
 <br />
 
@@ -14,7 +28,7 @@ Graph 3
 <br />
 [Dataset](https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030?resource=download)
 <br />
-<img width="1160" height="627" alt="image" src="https://github.com/user-attachments/assets/7fc2c59c-9ce1-488d-871c-57fc26223fe6" />
+<img width="783" height="428" alt="image" src="https://github.com/user-attachments/assets/7fc2c59c-9ce1-488d-871c-57fc26223fe6" />
 
 <br />
 <br />
