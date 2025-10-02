@@ -3,6 +3,14 @@
 
 [Link to Tableau Public](https://public.tableau.com/app/profile/anna.smolenova/vizzes)
 
+
+Sept 29
+<br />
+# Most played games on steam in Jan 2025
+Graph 7
+<br />
+<img width="783" height="526" alt="image" src="https://github.com/user-attachments/assets/f46075b7-dc93-4373-9f4e-cf57e7b59c1e" />
+
 __________
 __________
 
