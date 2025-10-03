@@ -3,6 +3,17 @@
 
 [Link to Tableau Public](https://public.tableau.com/app/profile/anna.smolenova/vizzes)
 
+Sept 29
+<br />
+# Billboard Hot 100 Number Ones
+Graph 8
+<br />
+<br />
+Data Source: 
+[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-08-26/readme.md)
+<br />
+<img width="783" height="626" alt="image" src="https://github.com/user-attachments/assets/8cafca72-b61d-4888-b0ce-3d88ad53535c" />
+
 
 Sept 29
 <br />
