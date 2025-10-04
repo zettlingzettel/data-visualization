@@ -3,16 +3,39 @@
 
 [Link to Tableau Public](https://public.tableau.com/app/profile/anna.smolenova/vizzes)
 
-Sept 29
+__________
+__________
+
+Oct 3
+<br />
+# Long Beach Animal Shelter Analysis
+Graph 10
+<br />
+<img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/402adfee-ab54-4592-919c-0be0e00749c1" />
+
+
+__________
+__________
+
+Oct 2
 <br />
 # Billboard Hot 100 Number Ones
-Graph 8
-<br />
+Graph 9
 <br />
 Data Source: 
 [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-08-26/readme.md)
 <br />
 <img width="783" height="626" alt="image" src="https://github.com/user-attachments/assets/8cafca72-b61d-4888-b0ce-3d88ad53535c" />
+
+Sept 30
+Graph 8
+<br />
+<br />
+# Popularity of New Year Resolutions
+<img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/3f1ac609-3b61-47e0-95a3-61caf18bfb56" />
+
+__________
+__________
 
 
 Sept 29
