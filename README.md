@@ -11,7 +11,9 @@ Oct 3
 # Long Beach Animal Shelter Analysis
 Graph 10
 <br />
-<img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/402adfee-ab54-4592-919c-0be0e00749c1" />
+Dataset: [GitHub](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04/readme.md)
+<br />
+<img width="783" height="526" alt="image" src="https://github.com/user-attachments/assets/402adfee-ab54-4592-919c-0be0e00749c1" />
 
 
 __________
@@ -32,7 +34,12 @@ Graph 8
 <br />
 <br />
 # Popularity of New Year Resolutions
-<img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/3f1ac609-3b61-47e0-95a3-61caf18bfb56" />
+<br />
+Data: 
+<br />
+<a href="https://data.world/makeovermonday/britions-newyearsresolutions-2024">Data</a>
+<br />
+<img width="783" height="526" alt="image" src="https://github.com/user-attachments/assets/3f1ac609-3b61-47e0-95a3-61caf18bfb56" />
 
 __________
 __________
@@ -42,6 +49,8 @@ Sept 29
 <br />
 # Most played games on steam in Jan 2025
 Graph 7
+<br />
+Data: Steam
 <br />
 <img width="783" height="526" alt="image" src="https://github.com/user-attachments/assets/f46075b7-dc93-4373-9f4e-cf57e7b59c1e" />
 
