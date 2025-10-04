@@ -13,6 +13,17 @@ Graph 10
 <br />
 Dataset: [GitHub](https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04/readme.md)
 <br />
+Summary:
+<br />
+The animal shelter processed a total of 51,514 intakes and outcomes, with cats and dogs making up the vast majority, primarily arriving in "Normal" condition, and the most common positive outcomes being "Rescue" and "Adoption."
+<br />
+<br />
+The vast majority of animals arrive in stable condition, but "Under Age/Weight" is the second-largest specific concern. The "Normal" intake condition is by far the highest count (over 20k), but the second-largest specific condition is "Under Age/Weight," with a count of over 10k, suggesting a significant portion of the shelter's resources are dedicated to caring for juvenile or malnourished animals.
+<br />
+<br />
+The combined total of positive outcomes significantly outweighs negative ones. The top three positive outcomes (Rescue, Adoption, and Return to Owner) collectively represent a higher volume than the top negative/neutral outcomes (Euthanasia, Transfer, and Shelter, Neuter, Return), indicating an overall high success rate in moving animals out of the shelter via desirable means.
+<br />
+
 <img width="783" height="526" alt="image" src="https://github.com/user-attachments/assets/402adfee-ab54-4592-919c-0be0e00749c1" />
 
 
@@ -117,6 +128,10 @@ Graph 2
 
 # Family spending in the UK
 Graph 1
+<br />
+Summary:
+<br />
+
 <br />
 [Article](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2023tomarch2024#data-sources-and-quality)
 <br />
