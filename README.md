@@ -6,6 +6,42 @@
 __________
 __________
 
+Oct 5
+<br />
+
+# Netflix shows with 50mln+ views
+Graph 12
+<br />
+Summary:
+<br />
+This chart shows the top Netflix titles with over 50 million views and highlights whether the title was available globally.
+The top five shows—all have over 100 million views and are all marked as Available Globally (green/blue bars). This demonstrates that the highest-tier viewership on the platform requires the addressable market of all Netflix subscribers.
+<br />
+The Single Most Dominant Hit: The spike in late 2021represents the unprecedented, massive viewership of Squid Game.
+<br />
+Looking past the Squid Game anomaly, there are noticeable clusters of high-volume releases.
+<br />
+The most recent data (2023 to mid-2025) shows a continued pattern of high peaks and deep valleys. This indicates that Netflix is not generating a constant stream of 50M+ view hits, but rather is strategically deploying major releases every few months to capture attention, followed by periods where high-volume hits are more scarce.
+
+<img width="4798" height="2798" alt="Netflix shows with 50mln+ views" src="https://github.com/user-attachments/assets/b2f8fb86-3ccc-4448-84db-e08181325cbd" />
+
+<img width="4798" height="2798" alt="Netflix shows with 50mln+ views-2" src="https://github.com/user-attachments/assets/82edbfc3-cc3e-4ee1-87f5-3e177375c556" />
+
+
+__________
+__________
+
+Oct 4
+<br />
+# Long Beach Animal Shelter Analysis (Part 2)
+Graph 11
+<br />
+ 
+<img width="2030" height="1926" alt="image" src="https://github.com/user-attachments/assets/4c3e87fc-7b7a-4093-8771-a53103beab5b" />
+
+__________
+__________
+
 Oct 3
 <br />
 # Long Beach Animal Shelter Analysis
