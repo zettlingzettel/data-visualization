@@ -99,7 +99,7 @@ Graph 7
 <br />
 Data: Steam
 <br />
-<img width="783" height="526" alt="image" src="https://github.com/user-attachments/assets/f46075b7-dc93-4373-9f4e-cf57e7b59c1e" />
+<img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/bf7159de-154b-494f-92cf-53c5b8d8721b" />
 
 __________
 __________
